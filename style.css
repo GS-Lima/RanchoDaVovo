@@ -1,5 +1,7 @@
 /* Geral */
+:root {
 
+}
 
 * {
     margin: 0;
@@ -14,7 +16,8 @@ body {
     overflow-x: hidden;
     font-size: 62.5%;
     width: 100%;
-   
+  background-color: #ffffff;
+color: #000000;
 }
 
 /*Header*/
