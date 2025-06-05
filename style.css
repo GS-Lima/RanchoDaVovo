@@ -332,6 +332,13 @@ footer {
 
 /*medias*/
 
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1e1e1e;
+    color: #ffffff;
+  }
+}
+
 @media (max-width:1200px) and (min-width: 625px) {
     .item-cardapio {
         width: 95vw;
