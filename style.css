@@ -1,4 +1,7 @@
 /* Geral */
+:root {
+  color-scheme: only light;
+}
 
 * {
     margin: 0;
